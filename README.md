@@ -1,9 +1,4 @@
-# Bài tập lớn môn học máy INT3405_2 - Nhóm 5
 # Chương trình chẩn đoán ung thư vú
-## Thành viên:
-- Phó Viết Tiến Anh 22022568
-- Nguyễn Duy Hậu 22022586
-- Nguyễn Phương Đông 22022593
 ## Hướng dẫn cài đặt và sử dụng chương trình
 - Clone chương trình từ link github: ```https://github.com/Nguyenduyhau13/Project_machine```.
 - Cài đặt [Python](https://www.python.org/).
