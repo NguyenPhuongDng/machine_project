@@ -1,6 +1,5 @@
 # Chương trình chẩn đoán ung thư vú
 ## Hướng dẫn cài đặt và sử dụng chương trình
-- Clone chương trình từ link github: ```https://github.com/Nguyenduyhau13/Project_machine```.
 - Cài đặt [Python](https://www.python.org/).
 - Cài đặt các thư viện cần thiết như django, scikit-learn, numpy, matplotlib, seaborn, pandas, joblib bằng cách mở Terminal và nhập dòng lệnh:
 ``` pip install django, scikit-learn, numpy, matplotlib, seaborn, pandas, joblib ```.
